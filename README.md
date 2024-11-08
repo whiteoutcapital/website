@@ -8,3 +8,5 @@ MicroCapClub: whiteout
 
 VIC: whiteout
 
+**Important**
+Nothing I write is investment advice; please review my [full legal dislaimer](/legal-disclaimer).
